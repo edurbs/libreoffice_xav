@@ -1,0 +1,5 @@
+Eduardo Soares <edurbs@gmail.com>
+
+************ COPYRIGHT ************
+
+http://www.gnu.org/licenses/lgpl-3.0.html
